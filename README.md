@@ -26,5 +26,8 @@
     Cliquez sur le bouton "Répondre" pour renvoyer la réponse à MainActivity et voir votre réponse.
 
 <img width="278" alt="Capture d’écran 2024-06-06 à 15 54 30" src="https://github.com/M4XGO/two-activities/assets/123946204/76acbec8-aae6-4af3-bc86-fbc4a3a797d0">
-<img width="273" alt="Capture d’écran 2024-06-06 à 15 54 42" src="https://gi<img width="272" alt="Capture d’écran 2024-06-06 à 15 54 55" src="https://github.com/M4XGO/two-activities/assets/123946204/b3c6e704-243a-49b3-885d-1fff53104048">
-thub.com/M4XGO/two-activities/assets/123946204/9296c408-f4fb-490c-b05b-1b9600714253">
+<img width="273" alt="Capture d’écran 2024-06-06 à 15 54 42" src="https://github.com/M4XGO/two-activities/assets/123946204/545957a9-42d0-4b07-9380-ca4eb32a5e7c">
+<img width="272" alt="Capture d’écran 2024-06-06 à 15 54 55" src="https://github.com/M4XGO/two-activities/assets/123946204/cf8b4e2d-ccf0-443c-9169-840a0a5489f1">
+
+
+
