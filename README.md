@@ -1,6 +1,6 @@
 # TwoActivities
 
-# TwoActivities est une application Android simple développée en Java et Kotlin, utilisant le système de construction Gradle. L'application démontre l'interaction de base entre deux activités dans Android.
+### TwoActivities est une application Android simple développée en Java et Kotlin, utilisant le système de construction Gradle. L'application démontre l'interaction de base entre deux activités dans Android.
 ## Caractéristiques
 
     Interaction entre les activités : L'application se compose de deux activités, MainActivity et SecondActivity. L'utilisateur peut naviguer entre ces activités à l'aide de boutons.
